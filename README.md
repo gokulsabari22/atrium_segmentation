@@ -11,5 +11,3 @@ Loss = Dice Loss
 
 Model = U-Net
 
-Link for the dataset
-http://medicaldecathlon.com/
