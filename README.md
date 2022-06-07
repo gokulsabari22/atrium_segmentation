@@ -11,3 +11,5 @@ Loss = Dice Loss
 
 Model = U-Net
 
+https://user-images.githubusercontent.com/57941940/172448260-f5ff0f59-339c-4dbb-adf3-6eb529e9d69f.mp4
+
